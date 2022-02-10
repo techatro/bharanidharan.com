@@ -1,9 +1,10 @@
 <span id="a">aws@bharanidharans.com</span>:<span id="b">~</span><span id="c">$</span> cat aboutme.txt<br/><br/>
 
-I'm Bharanidharan S, Linux Administrator at TCS by day and a Certified AWS solution Architect - Associate . I'm ungraduate student completed my degree in Mahendra Engineering College at the stream of Electronics and Communication. I had a valuable internship at IIIT DM, Kancheepuram. I'm a zealous learner of Cloud Architect for more the 3 years now. <p>You can see that, this is how your portfolio would look like.</p>
+I'm Bharanidharan S, Linux Administrator at TCS by day and a Certified AWS solution Architect - Associate . I'm ungraduate student completed my degree in Mahendra Engineering College at the stream of Electronics and Communication. I had a valuable internship at IIIT DM, Kancheepuram. I'm a zealous learner of Cloud Architect for more the 3 years now. <p>Here's my resume <a href="https://github.com/techatro/bharanidharan.com/raw/master/Bharanidharan_S_resume.pdf" target="_blank"> resume </a>if you looking to hire me.</p>
 <p>My area of interest and expertise involves Cloud Architect, IoT, Home Automation and Embedded. </p> 
-<p> I conduct Cloud classes and write blog <a href="https://techatro.blogspot.com/" target="_blank"> blog </a> where I can establish my findings as a contribution to the learning community. I also developed some cool project occasionally <a href="link" target="_blank"> projects </a> </p>
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p>
+<p> I conduct Cloud classes and write <a href="https://techatro.blogspot.com/" target="_blank"> blog </a> where I can establish my findings as a contribution to the learning community. I also developed some cool  <a href="link" target="_blank"> projects </a> occasionally </p>
+<span id="a">aws@bharanidharans.com</span>:<span id="b">~</span><span id="c">$</span> cat contact.txt<br/><br/>
+<p> You can reach me at<a href="bharanisiva03@gmail.com" target="_blank"> bharanisiva03@gmail.com </a> Here's my contact number <a href=""> 9994291430</a> Alternatively, you can contact me. </p>
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1" target="_blank">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
 You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
