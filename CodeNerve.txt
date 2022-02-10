@@ -1,12 +1,10 @@
-<span id="a">bharani@aws</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">bharani@aws</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+<span id="a">aws@bharanidharans.com</span>:<span id="b">~</span><span id="c">$</span> cat aboutme.txt<br/><br/>
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+I'm Bharanidharan S, Linux Administrator at TCS by day and a Certified AWS solution Architect - Associate . I'm ungraduate student completed my degree in Mahendra Engineering College at the stream of Electronics and Communication. I had a valuable internship at IIIT DM, Kancheepuram. I'm a zealous learner of Cloud Architect for more the 3 years now. <p>You can see that, this is how your portfolio would look like.</p>
+<p>My area of interest and expertise involves Cloud Architect, IoT, Home Automation and Embedded. </p> 
+<p> I conduct Cloud classes and write blog <a href="https://techatro.blogspot.com/" target="_blank"> blog </a> where I can establish my findings as a contribution to the learning community. I also developed some cool project occasionally <a href="link" target="_blank"> projects </a> </p>
+<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p>
+<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1" target="_blank">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
 You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
 
