@@ -1,10 +1,10 @@
 <span id="a">aws@bharanidharans.com</span>:<span id="b">~</span><span id="c">$</span> cat aboutme.txt<br/><br/>
 
-I'm Bharanidharan S, Linux Administrator at TCS by day and a Certified AWS solution Architect -Associate. I'm ungraduate student completed my degree in Mahendra Engineering College at the stream of Electronics and Communication. I had a valuable internship at IIIT DM, Kancheepuram. I'm a zealous learner of Cloud Architect for more the 3 years now. <p>Here's my <a href="https://github.com/techatro/bharanidharan.com/raw/master/Bharanidharan_S_resume.pdf" target="_blank"> resume </a>if you looking to hire me.</p>
+I'm Bharanidharan S, Linux Administrator at TCS by day and a Certified AWS solution Architect -Associate. I'm ungraduate student completed my degree in Mahendra Engineering College at the stream of Electronics and Communication. I had a valuable internship at IIIT DM, Kancheepuram. I'm a zealous learner of Cloud Architect for more than 3 years now. <p>Here's my <a href="https://github.com/techatro/bharanidharan.com/raw/master/Bharanidharan_S_resume.pdf" target="_blank"> resume </a>if you are looking to hire me.</p>
 <p>My area of interest and expertise involves Cloud Architect, IoT, Home Automation and Embedded. </p> 
-<p> I conduct Cloud classes and write <a href="https://techatro.blogspot.com/" target="_blank"> blog </a> where I can establish my findings as a contribution to the learning community. I also developed some cool  <a href="link" target="_blank"> projects </a> occasionally. </p>
+<p> I conduct Cloud classes and write <a href="https://techatro.blogspot.com/" target="_blank"> blog </a> where I can establish my findings as a contribution to the learning community. I also develop some cool  <a href="link" target="_blank"> projects </a> occasionally. </p>
 <span id="a">aws@bharanidharans.com</span>:<span id="b">~</span><span id="c">$</span> cat contact.txt<br/><br/>
-<p> You can reach me at <a href = "mailto: bharanisiva03@gmail.com"> Send Email </a> Here's my contact number <a href="tel:9994291430"> 9994291430</a> Alternatively, you can contact me. </p>
+<p> You can reach me via <a href = "mailto: bharanisiva03@gmail.com"> Email </a> / <a href="tel:9994291430"> contact number </a>. </p>
 <p> My other social media handles include: <br> <a href="https://www.linkedin.com/in/bharanidharan-s/" target="_blank">#LinkedIn</a> <br> <a href="https://www.instagram.com/bharanisiva03/" target="_blank">#Instagram</a> <br> <a href="https://www.facebook.com/profile.php?id=100008107326900" target="_blank">#Facebook</a></p>
 <span id="a">aws@bharanidharans.com</span>:<span id="b">~</span><span id="c">$</span> exit <br/><br/>
 
