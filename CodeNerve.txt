@@ -6,6 +6,6 @@ I create AWS related <a href="https://www.youtube.com/channel/UC8ZcXjAp3dKRR0cSs
 <span id="a">aws@bharanidharans.com</span>:<span id="b">~</span><span id="c">$</span> cat contact.txt<br/><br/>
 You can reach me via <a href = "mailto: bharanisiva03@gmail.com"> e-mail </a> / <a href="tel:9994291430"> contact number</a>.</p>
 My other social media handles include: <p> <br> #<a href="https://www.linkedin.com/in/bharanidharan-s/" target="_blank"> LinkedIn</a> <br> #<a href="https://www.instagram.com/bharanisiva03/" target="_blank"> Instagram</a> <br> #<a href="https://www.facebook.com/profile.php?id=100008107326900" target="_blank"> Facebook</a> <br> #<a href="https://twitter.com/Bharani81638237" target="_blank"> Twitter</a></p>
-<span id="a">aws@bharanidharans.com</span>:<span id="b">~</span><span id="c">$</span> exit <br/><br/>
+<span id="a">aws@bharanidharans.com</span>:<span id="b">~</span><span id="c">$</span> exit <br/>
 
 
