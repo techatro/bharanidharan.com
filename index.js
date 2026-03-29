@@ -6,13 +6,32 @@ var Typer = {
   file: '',
   accessCount: 0,
   deniedCount: 0,
+  allowedFiles: ['CodeNerve.txt'],
   init: function () {
-    accessCountimer = setInterval(function () {
-      Typer.updLstChr();
+    var self = this;
+    this.accessCountimer = setInterval(function () {
+      self.updLstChr();
     }, 500);
-    $.get(Typer.file, function (data) {
-      Typer.text = data;
-      Typer.text = Typer.text.slice(0, Typer.text.length - 1);
+
+    // Validate file before fetching
+    if (this.allowedFiles.indexOf(this.file) === -1) {
+      console.error('Invalid file specified.');
+      return;
+    }
+
+    $.get(this.file, function (data) {
+      // Escape HTML special characters to prevent XSS
+      function escapeHtml(text) {
+        return text
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;')
+          .replace(/'/g, '&#039;');
+      }
+
+      self.text = escapeHtml(data);
+      self.text = self.text.slice(0, self.text.length - 1);
     });
   },
 
