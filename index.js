@@ -6,10 +6,18 @@ var Typer = {
   file: '',
   accessCount: 0,
   deniedCount: 0,
+  allowedFiles: ['CodeNerve.txt'],
   init: function () {
+    // Validate that Typer.file is in allowedFiles before proceeding
+    if (!Typer.allowedFiles.includes(Typer.file)) {
+      console.error('Invalid file specified.');
+      return;
+    }
+
     accessCountimer = setInterval(function () {
       Typer.updLstChr();
     }, 500);
+
     $.get(Typer.file, function (data) {
       Typer.text = data;
       Typer.text = Typer.text.slice(0, Typer.text.length - 1);
